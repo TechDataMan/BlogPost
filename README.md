@@ -7,7 +7,7 @@ This project is part of my Udacity´s Data Scientist Nanodegree Program.
 1. [Project Motivation](#motivation)
 2. [Data](#data)
 3. [Files](#files)
-4. [Installation](#installation)
+4. [Libraries](#libraries)
 5. [Results](#results)
 6. [Licensing](#licensing)
 
@@ -34,7 +34,7 @@ The following files are provided within this project:
   <li><b>README.md:</b> This file</li>
 </ul>
 
-## Libraries <a name="installation"></a>
+## Libraries <a name="libraries"></a>
 
 I created a Jupyter notebook (Python) for the data analysis. For this I used the integrated workspaces from Udacity. The ipynb file should run on any Python 3 version (3.0.* or higher) without any problems.</br>
 
