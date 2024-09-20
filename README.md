@@ -26,7 +26,7 @@ The data of survey contains of the following two CSV files:
 
 Further information about the original dataset can be found at [StackOverflow](https://survey.stackoverflow.co/2024)
 
-## Provided Files <a name="files"></a>
+## Files <a name="files"></a>
 
 The following files are provided within this project:
 <ul>
