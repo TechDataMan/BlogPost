@@ -17,11 +17,11 @@ Writing a data science blog post is one of the projects within the Udacity Data 
 
 ## Data <a name="data"></a>
 
-The Stack Overflow survey includes around 65k of reviews from 185 countries all around the world. The focus of the survey is to understand significant aspects of jobs in software development and data analytics.</br>
-The survey contains of the following two CSV files:
+The 2024 Stack Overflow survey includes around 65k reviews from 185 countries all around the world. The focus of the survey is to understand significant aspects of jobs in software development.</br>
+The data of survey contains of the following two CSV files:
 <ul>
-  <li>The schema of the survey data, containing information about the more than 150 columns (i.e., questions) used within the set
-  <li>The survey results themselves, containing thousands of individual answers to the survey questions 
+  <li>schema of the survey data, containing information about the more than 100 columns (i.e., questions) used within the survey
+  <li>survey results, containing thousands of individual answers to the survey questions 
 </ul>
 Further information about the original dataset can be found at StackOverflow (https://survey.stackoverflow.co/2024)
 
@@ -42,11 +42,9 @@ Here are the additional Python libraries used within this project:
   <li>Numpy</li>
   <li>Pandas</li>
   <li>Matplotlib.PyPlot</li>
-  <li>Seaborn</li>
 </ul>
 
-You will need to download Stackoverflow’s 2024 Annual Developer Survey and put it in your specific folder.</br> 
-You can find the data to download [here](https://insights.stackoverflow.com/survey). </br>
+You will need to download Stackoverflow’s 2024 Annual Developer Survey and put it in your folder. You can find the data [here](https://insights.stackoverflow.com/survey). </br>
 
 ## Results <a name="results"></a>
 
