@@ -43,6 +43,7 @@ Here are the additional Python libraries used within this project:
   <li>Numpy</li>
   <li>Pandas</li>
   <li>Matplotlib.PyPlot</li>
+  <li>sklearn</li>
 </ul>
 
 You will need to download Stackoverflow’s 2024 Annual Developer Survey and put it in your folder. You can find the data [here](https://insights.stackoverflow.com/survey). </br>
