@@ -23,7 +23,8 @@ The data of survey contains of the following two CSV files:
   <li>schema of the survey data, containing information about the more than 100 columns (i.e., questions) used within the survey
   <li>survey results, containing thousands of individual answers to the survey questions 
 </ul>
-Further information about the original dataset can be found at StackOverflow (https://survey.stackoverflow.co/2024)
+
+Further information about the original dataset can be found at [StackOverflow](https://survey.stackoverflow.co/2024)
 
 ## Provided Files <a name="files"></a>
 
