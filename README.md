@@ -48,7 +48,7 @@ You will need to download Stackoverflow’s 2024 Annual Developer Survey and put
 
 ## Results <a name="results"></a>
 
-The aim of the analysis was to find out whether, how and where you can get rich as a software developer. The results can be found [here](https://techdataman.github.io/2024/09/16/blog-post-first.html).
+The aim of the analysis was to find out whether, how and where you can get rich as a software developer. The results can be found on my GitHub [Blog](https://techdataman.github.io/2024/09/16/blog-post-first.html).
 
 ## Licensing <a name="licensing"></a>
 
