@@ -46,7 +46,7 @@ Here are the additional Python libraries used within this project:
   <li>sklearn</li>
 </ul>
 
-You will need to download Stackoverflow’s 2024 Annual Developer Survey and put it in your folder. You can find the data [here](https://insights.stackoverflow.com/survey). </br>
+You will need to download Stackoverflow’s 2024 Annual Developer Survey and put it in your folder. [Here](https://insights.stackoverflow.com/survey) you can find the data. </br>
 
 ## Results <a name="results"></a>
 
