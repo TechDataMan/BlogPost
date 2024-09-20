@@ -1,6 +1,6 @@
 ## Project "Write a Data Science Blog Post"
 
-This project is part of my Udacity´s Data Scientist nanodegree program. 
+This project is part of my Udacity´s Data Scientist Nanodegree Program. 
 
 ### Table of Contents
  
